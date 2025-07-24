@@ -88,7 +88,7 @@ Feel free to reach out and I’ll be happy to share:
 ## 📎 Contact
 
 📧 Email: [pranay0923@gmail.com](mailto:pranay0923@gmail.com)  
-🔗 LinkedIn: [(https://www.linkedin.com/in/mudigondapranay)]([(https://www.linkedin.com/in/mudigondapranay)]  
+🔗 LinkedIn: [(https://www.linkedin.com/in/mudigondapranay)]
 💻 GitHub: [github.com/pranay0923](https://github.com/pranay0923)
 
 ---
